@@ -7,3 +7,5 @@ Post-doc at Royal Holloway, University of London working on neutrino physics
 - Bayesian MCMC
 - GPUs!
 - Neutrino Physics
+- Bouldering
+- Fast Food
