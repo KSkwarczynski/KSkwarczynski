@@ -9,3 +9,6 @@ Post-doc at Royal Holloway, University of London working on neutrino physics
 - Neutrino Physics
 - Bouldering
 - Fast Food
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KSKWARCZYNSKI&theme=2077)
