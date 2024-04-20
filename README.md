@@ -4,6 +4,7 @@ Post-doc at Royal Holloway, University of London working on neutrino physics
 
 # Interest :
 - Hyper-optimiation freak
+- C++ Enjoyer
 - Bayesian MCMC
 - GPUs!
 - Neutrino Physics
