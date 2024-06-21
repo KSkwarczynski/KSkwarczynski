@@ -13,8 +13,3 @@ Post-doc at Royal Holloway, University of London working on neutrino physics
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KSKWARCZYNSKI&theme=2077)
-
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  <img src="https://bestrfiles388.weebly.com/uploads/1/1/8/0/118013832/813228422.png" alt="CUDA" width="40" height="40"/>
-  </a> </p>
