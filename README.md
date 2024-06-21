@@ -16,5 +16,5 @@ Post-doc at Royal Holloway, University of London working on neutrino physics
 
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  <img src="https://assets.nvidiagrid.net/ngc/logos/Cuda.png" alt="CUDA" width="40" height="40"/> 
+  <img src="https://smist08.wordpress.com/2019/04/03/playing-with-cuda-on-my-nvidia-jetson-nano/#jp-carousel-2492" alt="CUDA" width="40" height="40"/>
   </a> </p>
