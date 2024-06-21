@@ -14,4 +14,4 @@ Post-doc at Royal Holloway, University of London working on neutrino physics
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KSKWARCZYNSKI&theme=2077)
 
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> </a> </p>
