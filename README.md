@@ -24,3 +24,5 @@ Post-doc at Royal Holloway, University of London working on neutrino physics
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="cplusplus" width="40" height="40"/>
   </a> </p>
 
+
+[![Release](https://img.shields.io/github/v/release/mach3-software/MaCh3)](https://github.com/mach3-software/MaCh3/releases)
