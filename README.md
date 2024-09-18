@@ -24,11 +24,3 @@ Post-doc at Royal Holloway, University of London working on neutrino physics
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="cplusplus" width="40" height="40"/>
   </a> </p>
 
-
-|Oscillator        | Hardware   | Source     | Reference  |
-|------------------|------------|------------|------------|
-| CUDAProb3Linear  | CPU/GPU    | Beam       | [Ref]      |
-| CUDAProb3        | CPU/GPU    | Atm        | [Ref](https://doi.org/10.1016/j.cpc.2018.07.022)        |
-| ProbGPULinear    | GPU        | Beam       | [Ref](http://dx.doi.org/10.3204/DESY-PROC-2014-05/23)   |
-| Prob3++Linear    | CPU        | Beam       | [Ref]      |
-| NuFastLinear     | CPU        | Beam       | [Ref](https://doi.org/10.48550/arXiv.2405.02400)        |
