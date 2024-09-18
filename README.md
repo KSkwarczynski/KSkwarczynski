@@ -24,9 +24,8 @@ Post-doc at Royal Holloway, University of London working on neutrino physics
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="cplusplus" width="40" height="40"/>
   </a> </p>
 
-
-| Algorithm  | Reference        |Need Ext Library  |
-|------------|------------------|------------------|
-| MR2T2      | [ref](https://doi.org/10.1063/1.1699114)                | No               |
-| MINUIT2    | [ref](https://cds.cern.ch/record/2296388/)                | Yes              |
-| PSO        | [ref](https://doi.org/10.1162/EVCO_r_00180)                 | No               |
+| Algorithm  | Reference        |Need Ext Lib  |
+|------------|------------------|--------------|
+| MR2T2      | [Ref](https://doi.org/10.1063/1.1699114)       | No       |
+| MINUIT2    | [Ref](https://cds.cern.ch/record/2296388/)     | Yes      |
+| PSO        | [Ref](https://doi.org/10.1162/EVCO_r_00180)    | No       |
