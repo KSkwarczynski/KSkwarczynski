@@ -7,9 +7,9 @@ Post-doc at Royal Holloway, University of London working on neutrino physics
 - C++ Enjoyer
 - Bayesian MCMC
 - GPUs!
-- Neutrino Physics
+- Neutrino Interactions
 - Bouldering
-- Fast Food
+- Crappy Food
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KSKWARCZYNSKI&theme=2077)
