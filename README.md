@@ -16,7 +16,9 @@ Post-doc at Royal Holloway, University of London working on neutrino physics
 
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
-  <img src="https://assets.nvidiagrid.net/ngc/logos/Cuda.png" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fortran/fortran-original.svg" width="40" height="40"/> 
+  <img src="https://www.scan.co.uk/images/3xs/infopages/cuda-logo.png" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tex/tex-original.svg" width="40" height="40"/>
